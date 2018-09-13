@@ -15,7 +15,7 @@ ICON_NEXT = "icon-next.png"
 ICON_MOVIES = "icon-movies.png"
 ICON_SERIES = "icon-series.png"
 ICON_QUEUE = "icon-queue.png"
-BASE_URL = "http://putlocker9.com"
+BASE_URL = "http://www1.putlockerz.io/"
 
 import updater
 updater.init(repo = '/jwsolve/putlocker.bundle', branch = 'master')
